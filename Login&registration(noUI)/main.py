@@ -4,9 +4,9 @@ class User:
         self.password = password
 
 existing_users = [
-    User(username="user1", password="pass1"),
-    User(username="user2", password="pass2"),
-    User(username="user3", password="pass3")
+    User(username="jom", password="123"),
+    User(username="joel", password="456"),
+    User(username="john", password="789")
 ]
 
 
